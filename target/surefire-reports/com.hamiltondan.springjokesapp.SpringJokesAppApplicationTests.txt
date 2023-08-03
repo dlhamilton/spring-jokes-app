@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.hamiltondan.springjokesapp.SpringJokesAppApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.87 s - in com.hamiltondan.springjokesapp.SpringJokesAppApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.036 s - in com.hamiltondan.springjokesapp.SpringJokesAppApplicationTests
